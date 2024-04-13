@@ -1,20 +1,13 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**joralgra/joralgra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer with a knack for problem-solving and a love for coding. Currently, I'm diving deep into various projects to enhance my skills and contribute to exciting ventures. Here's a little about what I'm up to:
 
-Here are some ideas to get you started:
+🔭 I’m currently working on improving my skills in full-stack web development.
+🌱 I’m currently learning advanced algorithms and data structures.
+👯 I’m looking to collaborate on open-source projects that make a positive impact.
+💬 Ask me about anything related to software development, I'm happy to help!
+📫 How to reach me: joralgra.dev@gmail.com
+⚡ Fun fact: I'm also a huge fan of hiking and exploring nature whenever I get the chance!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@joralgradev36442/30-nites-of-code)  
-  ![@joralgradev36442 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=joralgradev36442)
-Copy code
+
+![@joralgradev36442 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=joralgradev36442)

@@ -1,6 +1,8 @@
+# 👋 Hi there, I'm Jordi Almendros
+
 🎓 **Master in high performance and cloud computing (UPV)**
 
-💻 **Senior Software Developer** | /w Systems Knowledge
+💻 **Industrial R&D Engineer / Senior Software Developer** | /w Systems Knowledge
 
 🚚 **Specialized in Logistics & Supply Chain Solutions |** Optimization, AI & Cloud Computing
 
@@ -9,11 +11,11 @@
 
 🛠️ **Projects & Interests:**
 
-- Developing software, focusing on optimization models.
-- Linking Bipolar Routing Problems with inventory management simulations.
-- Microservice based systems fan.
-- Passionate about AI applications and high-performance computing.
+- Optimization as a Service (OaaS) — Architecting deployable algorithm platforms
+- Cloud & CI/CD — Automating pipelines, infrastructure, and scalable deployments
+- Data & AI — Demand forecasting, time series (ARIMA, LSTM), ML integration
+- Logistics & Supply Chain — Route optimization, inventory tracking, simulation
 
-🐾 Cat lover | 👨‍💻 Home server administrator | 🌍 Valencia-based
+💡 Open-source advocate | 👨‍💻 Home server administrator | 🌍 Valencia-based
 
 📫 **Let's connect and collaborate!**
